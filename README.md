@@ -1,14 +1,11 @@
 # 📰 Unbiased Fake News Detection & Latent Semantic Topic Analysis Pipeline
+<a href="https://fakenewsdetection-saba.streamlit.app">Click here to visit Steamlit App</a>
 
 An end-to-end Natural Language Processing (NLP) and Machine Learning Knowledge Discovery in Databases (KDD) pipeline that programmatically detects fraudulent news copy while exposing and neutralizing systemic topical confounding (shortcut learning). This data science project features structural text debiasing, unsupervised topic profiling (LDA), high-dimensional latent clustering ($K$-Means), multi-model hyperparameter optimization, and a functional deployment interface layer built with Streamlit.
 
 ---
 
 ## 📌 Project Architecture & Metadata
-* **Author:** Saba Bashir
-* **Student ID:** 2179443
-* **Course:** Master's Project (Data Science Capstone)
-* **Institution:** School of Computing, DePaul University
 * **Primary Champion Architecture:** Linear Support Vector Machine (`LinearSVC`)
 * **Core Core Results Performance:** **0.9781 Test F1-Score** | **0.9563 Matthews Correlation Coefficient (MCC)**
 
