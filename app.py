@@ -143,8 +143,6 @@ st.sidebar.markdown(
     """
     **Student:** Saba Bashir  
     **Student ID:** 2179443  
-    **Course:** Master's Project (Data Science)  
-    **Institution:** DePaul University  
     """
 )
 st.sidebar.markdown("---")
